@@ -1,0 +1,13 @@
+#WAPS to count vowels in a given string by user
+s=input("enter string\n")
+a=s.count('a')
+e=s.count('e')
+i=s.count('i')
+o=s.count('o')
+u=s.count('u')
+print("occurance of a is %s "%a)
+print("occurance of e is %s "%e)
+print("occurance of i is %s "%i)
+print("occurance of o is %s "%o)
+print("occurance of u is %s "%u)
+input()

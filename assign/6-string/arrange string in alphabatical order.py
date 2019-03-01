@@ -1,0 +1,10 @@
+#WAPS to arrange a string in ditionary order
+s=input("enter string\n")
+print("string is: %s"%s)
+a=sorted(s)
+print("sorted string is: %s"%a)
+s1=str(a)
+print(type(a))
+print(s1)
+print(type(s1))
+input()
